@@ -1,0 +1,17 @@
+{
+ "built": "2026-11-24 23:24:55",
+ "engine": "engine.zip",
+ "pyodide_packages": [
+  "numpy",
+  "opencv-python",
+  "pillow"
+ ],
+ "wheels": [
+  "et_xmlfile-2.0.0-py3-none-any.whl",
+  "openpyxl-3.1.5-py2.py3-none-any.whl"
+ ],
+ "tesseract": {
+  "script": "tesseract-core-simd-lstm.js",
+  "data": "eng.traineddata.gz"
+ }
+}
